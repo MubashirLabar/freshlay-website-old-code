@@ -1,0 +1,36 @@
+$themeColor: #18A753; 
+$themeColorHover: #2f9a14; 
+$pageBackground: #fff; 
+$lightButtonColor: #ffffff;   
+$lightButtonBorderColor: #a0a0a0; 
+$lightButtonColorHover: #f1f1f1; 
+
+$black: #020102; 
+.black{color: $black;}
+
+$red: #f23e4a;
+$vegetables: #a3ce71;
+$fruits: #20c3f3;
+$meats: #fd7d91;
+$blue: #116dff;
+$yellow: #f4ac26;
+$green: #28d094;
+.color{color: $themeColor; }    
+.gray{color: #8592a5;} 
+.blue{color: $blue;} 
+.green{color: $green;}
+.red{color: $red;}
+
+// Vendor themeColors
+$vendorColor: #050505;
+
+
+/*
+$blue: #116dff;
+.color{color: #23597f;}
+.gray{color: #8592a5;}
+.blue{color: $blue;} 
+$themeColor: #23597f; 
+
+#86bd0f 
+*/
